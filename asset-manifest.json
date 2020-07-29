@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ClassRoom/static/css/main.5d93090f.chunk.css",
+    "main.js": "/ClassRoom/static/js/main.f151ea5a.chunk.js",
+    "main.js.map": "/ClassRoom/static/js/main.f151ea5a.chunk.js.map",
+    "runtime-main.js": "/ClassRoom/static/js/runtime-main.c6f6edb1.js",
+    "runtime-main.js.map": "/ClassRoom/static/js/runtime-main.c6f6edb1.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/ClassRoom/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.4c204afa.chunk.js": "/ClassRoom/static/js/2.4c204afa.chunk.js",
+    "static/js/2.4c204afa.chunk.js.map": "/ClassRoom/static/js/2.4c204afa.chunk.js.map",
+    "index.html": "/ClassRoom/index.html",
+    "precache-manifest.9d9d62ebdd1f402a6574e5b67de9bef1.js": "/ClassRoom/precache-manifest.9d9d62ebdd1f402a6574e5b67de9bef1.js",
+    "service-worker.js": "/ClassRoom/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/ClassRoom/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5d93090f.chunk.css.map": "/ClassRoom/static/css/main.5d93090f.chunk.css.map",
+    "static/js/2.4c204afa.chunk.js.LICENSE.txt": "/ClassRoom/static/js/2.4c204afa.chunk.js.LICENSE.txt",
+    "static/media/Class.jpg": "/ClassRoom/static/media/Class.2fde86d6.jpg",
+    "static/media/bgImage.jpg": "/ClassRoom/static/media/bgImage.eae13084.jpg",
+    "static/media/laptop.png": "/ClassRoom/static/media/laptop.742bccd4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6f6edb1.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.4c204afa.chunk.js",
+    "static/css/main.5d93090f.chunk.css",
+    "static/js/main.f151ea5a.chunk.js"
+  ]
+}
